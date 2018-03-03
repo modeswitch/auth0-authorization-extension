@@ -31,6 +31,7 @@
       "async@2.1.2",
       "auth0-extension-hapi-tools@1.2.0",
       "auth0-extension-s3-tools@1.1.1",
+      "auth0-extension-gcloud-tools@1.0.0",
       "auth0-extension-tools@1.2.1",
       "auth0@2.8.0",
       "aws-sdk@2.5.3",
